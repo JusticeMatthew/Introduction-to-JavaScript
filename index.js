@@ -18,6 +18,7 @@ Do the following:
    HINT: no function required
 */
 
+
 const votingAge = 26;
 
 if (votingAge >= 18) {
